@@ -1,0 +1,24 @@
+/*评论  */
+.comment{
+  padding: 20rpx;
+  background-color: #fff;
+}
+.comment-attach{
+  display: flex;
+  justify-content: space-between;
+  font-size: 26rpx;
+  color: #666;
+}
+.comment-star{
+  margin-top: 10rpx;
+  margin-bottom: 10rpx;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 28rpx;
+  color: #666;
+}
+.comment-content{
+  font-size: 28rpx;
+  color: #777;
+}

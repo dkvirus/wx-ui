@@ -1,0 +1,21 @@
+/* 价格 */
+.price{
+  height: 88rpx;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding:20rpx;
+}
+.price-section1{
+  width: 33%;
+}
+.price-section2{
+  width: 33%;
+  text-align: right;
+}
+.price-section3{
+  width:33%;
+  text-align: right;
+}

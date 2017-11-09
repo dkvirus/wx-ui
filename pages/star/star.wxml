@@ -1,0 +1,14 @@
+<view class="comment">
+  <view class="comment-attach">
+    <view>张三</view>
+    <view>2017年11月9日15:23:51</view>
+  </view>
+  <view class="comment-star">
+    <star num="{{select}}" total="{{total}}" disabled="{{disabled}}" bindchange="onStarChange"></star>
+    <view>708 条评论</view>
+  </view>
+  <view class="comment-content">
+    俺们那嘎达都是东北人，俺们那嘎达都是东北人，俺们那嘎达都是东北人，
+    俺们那嘎达都是东北人，俺们那嘎达都是东北人，俺们那嘎达都是东北人，
+  </view>
+</view>
