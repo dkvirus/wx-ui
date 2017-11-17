@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "popup": "../../components/popup/popup"
+  },
+  "navigationBarTitleText": "从底部弹出模态框"
+}

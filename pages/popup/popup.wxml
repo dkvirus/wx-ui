@@ -1,0 +1,10 @@
+<button type="primary" bindtap="clickMe">点我，从底部弹出模态框</button>
+
+<popup isShowPopup="{{isShowModal}}" bindclose="closeModal">
+  <view style="padding: 40rpx 40rpx">
+    <text>
+      我是模态框里的内容.....
+      默认模态框高度为 500px，可自定义高度
+    </text>
+  </view>
+</popup>

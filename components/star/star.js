@@ -49,14 +49,21 @@ Component({
         states.push(obj);
       }
       this.setData({
-        state: states
+        state: states,
+        num: num
       })
     },
     // 点击星星触发事件
     clickImg: function (e) {
-      if (this.data.disabled) {
+      if (!this.data.disabled) {
+        return;
+      }
+      if (e.currentTarget.dataset.id === this.data.num) {
+        this.geneState(0)
+        this.triggerEvent('change', { value: -1 })
+      } else {
         this.geneState(e.currentTarget.dataset.id)
-        this.triggerEvent('change', { value: e.currentTarget.dataset.id - 1})
+        this.triggerEvent('change', { value: e.currentTarget.dataset.id - 1 })
       }
     }
   },

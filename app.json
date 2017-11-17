@@ -2,7 +2,8 @@
   "pages":[
     "pages/index/index",
     "pages/star/star",
-    "pages/price/price"
+    "pages/price/price",
+    "pages/popup/popup"
   ],
   "window":{
     "backgroundTextStyle":"light",

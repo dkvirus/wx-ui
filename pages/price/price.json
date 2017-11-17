@@ -1,5 +1,6 @@
 {
   "usingComponents": {
     "price": "../../components/price/price"
-  }
+  },
+  "navigationBarTitleText": "价格加减组件"
 }
