@@ -10,3 +10,7 @@
 ### 2. 星星评价组件
 
 ![star](https://gitee.com/uploads/images/2017/1109/170908_842092d4_1623141.gif "星星评价组件")
+
+### 3. 从底部弹出模态框
+
+![popup](https://gitee.com/uploads/images/2017/1117/202723_9c2e46db_1623141.gif "从底部弹出模态框")
