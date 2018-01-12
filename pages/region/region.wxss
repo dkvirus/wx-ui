@@ -1,0 +1,11 @@
+/* pages/region/region.wxss */
+.wrapper{
+  background-color: #fff;
+  display: flex;
+  line-height: 50px;
+  padding-left: 10px;
+}
+
+.label{
+  color: #888888;
+}

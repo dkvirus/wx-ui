@@ -1,6 +1,7 @@
 {
   "pages":[
     "pages/index/index",
+    "pages/region/region",
     "pages/star/star",
     "pages/price/price",
     "pages/popup/popup"

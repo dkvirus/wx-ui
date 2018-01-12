@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "region": "../../components/region/region"
+  },
+  "navigationBarTitleText": "省市区组件"
+}

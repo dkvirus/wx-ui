@@ -8,6 +8,7 @@ Page({
       { link: '../price/price', name: '金额加减组件' },
       { link: '../star/star', name: '评价星星组件' },
       { link: '../popup/popup', name: '从底部弹出模态框' },
+      { link: '../region/region', name: '自定义省市区组件' },
     ]
   },
 

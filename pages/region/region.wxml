@@ -1,0 +1,4 @@
+<view class="wrapper">
+  <view class="label">地址：</view>
+  <region bindchange="handleRegionChange" region="{{[address.province || '请选择', address.city || '请选择', address.district || '请选择']}}"></region>
+</view>
